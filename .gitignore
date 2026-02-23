@@ -1,0 +1,24 @@
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.csproj.user
+*.DotSettings.user
+
+# Lyra game project (do not upload entire Lyra project per task)
+LyraStarterGame/
+
+# IDE / editor
+.idea/
+.cursor/
+*.sln.docstates
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
