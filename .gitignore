@@ -7,12 +7,10 @@ obj/
 *.csproj.user
 *.DotSettings.user
 
-# Lyra game project (do not upload entire Lyra project per task)
 LyraStarterGame/
 
 # IDE / editor
 .idea/
-.cursor/
 *.sln.docstates
 
 # OS
